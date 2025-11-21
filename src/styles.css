@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+body, html, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
